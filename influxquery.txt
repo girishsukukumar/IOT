@@ -1,0 +1,3 @@
+SELECT "Humidity" FROM "autogen"."ClimateEvents"  WHERE time < now()  
+
+
